@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `Libraries`
+
+Libraries need to install :
+
+npm i react-beautiful-dnd uuid lodash
+
 ### `npm start`
 
 Runs the app in the development mode.\
