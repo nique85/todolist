@@ -1,0 +1,52 @@
+.header {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.App {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.App .column {
+  width: 30%;
+}
+
+.todo{
+  width: 100%;
+  background-color: coral;
+  padding: 10px 10px 0 10px;
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+}
+
+.not-done{
+  width: 100%;
+  background-color: yellowgreen;
+  padding: 10px 10px 0 10px;
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+}
+.done {
+  width: 100%;
+  background-color: blue;
+  padding: 10px 10px 0 10px;
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+}
+
+.item {
+  margin-bottom: 10px;
+  /* background-color: gray; */
+  color: white;
+  border: 1px solid white;
+  padding: 5px;
+  border-radius: 7px;
+}
+
+
+
